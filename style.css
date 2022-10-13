@@ -1,0 +1,56 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.header-page {
+	background-color: #1ABC9C;
+}
+
+.nav-top {
+	background-color: #2C3E50;
+	height: 3rem;
+}
+
+.img-profile {
+	display: inline-block;
+	height: 100px;
+	background-color: white;
+}
+
+.bl_card {
+	max-height: 350px;
+	border-radius: 2rem;
+	overflow: hidden;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+.about {
+	background-color: #1ABC9C;
+}
+
+.btn-send {
+	background-color:#1ABC9C;
+}
+
+.cont-fin{
+	background-color: #2C3E50;
+    color: white;
+    padding: 3rem;
+}
+
+a{
+    color: white;
+}
+
+.last{
+	background-color: #1b2835;
+    max-height: 100px;
+    text-align: center;
+}
+.last a{
+    margin-top: 3rem;
+}
